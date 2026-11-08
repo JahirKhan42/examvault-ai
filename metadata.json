@@ -1,0 +1,6 @@
+{
+  "name": "ExamVault AI",
+  "description": "Transform messy class notes, PDFs, and notebook photos into high-yield interactive flashcards with 3D flip study, mastery tracking, and Anki CSV export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
